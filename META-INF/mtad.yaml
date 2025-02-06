@@ -1,0 +1,16 @@
+---
+_schema-version: "1.0"
+ID: "us10.9d4913a9trial.salesordermanagementmi01"
+version: "1.0.1"
+modules:
+- path: "us10.9d4913a9trial.salesordermanagementmi01/content.zip"
+  name: "us10.9d4913a9trial.salesordermanagementmi01"
+  type: "com.sap.lobby.content"
+  parameters:
+    releaseNotes: ""
+    origin: null
+    projectType: "com.sap.project.spa"
+    description: "Tutorial Mission: Develop, deploy and run the business process with\
+      \ intuitive low-code and no-code capabilities"
+    projectName: "Sales Order Management (MI01)"
+    version: "1.0.0"

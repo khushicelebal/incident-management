@@ -1,0 +1,57 @@
+{
+  "notes" : "",
+  "manifest" : {
+    "id" : "us10.9d4913a9trial.salesordermanagementmi01",
+    "name" : "Sales Order Management (MI01)",
+    "type" : "com.sap.project.spa",
+    "notes" : "",
+    "state" : null,
+    "origin" : null,
+    "source" : null,
+    "version" : "1.0.0",
+    "bindings" : null,
+    "artifacts" : {
+      "bpi.form" : {
+        "approvalForm" : {
+          "title" : "Approval Form",
+          "description" : "Form to approve or reject the sales order"
+        },
+        "orderRejectionForm" : {
+          "title" : "Order Rejection Form",
+          "description" : "Notification form to inform whether the sales order is approved by the supplier"
+        },
+        "orderProcessingForm" : {
+          "title" : "Order Processing Form",
+          "description" : "Form to collect order details"
+        },
+        "orderConfirmationForm" : {
+          "title" : "Order Confirmation Form",
+          "description" : "Notification form to inform whether the sales order is approved by the supplier"
+        },
+        "autoApprovalNotification" : {
+          "title" : "Auto Approval Notification",
+          "description" : "Notification form to inform auto approval of the sales order"
+        }
+      },
+      "bpi.process" : {
+        "orderProcessing" : {
+          "title" : "Order Processing",
+          "description" : "A process to handle sales orders"
+        }
+      }
+    },
+    "properties" : null,
+    "description" : "Tutorial Mission: Develop, deploy and run the business process with intuitive low-code and no-code capabilities",
+    "dependencies" : { },
+    "schemaVersion" : "1.0.0"
+  },
+  "origin" : null,
+  "description" : "Tutorial Mission: Develop, deploy and run the business process with intuitive low-code and no-code capabilities",
+  "type" : "com.sap.project.spa",
+  "version" : "1.0.0",
+  "dependencies" : { },
+  "entityState" : "READY",
+  "name" : "Sales Order Management (MI01)",
+  "id" : "us10.9d4913a9trial.salesordermanagementmi01",
+  "state" : "RELEASED"
+}

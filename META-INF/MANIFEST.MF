@@ -1,0 +1,10 @@
+Manifest-Version: 1.0.0
+Created-By: Application Development Archive Builder
+
+Name: us10.9d4913a9trial.salesordermanagementmi01/content.zip
+Content-Type: application/zip
+MTA-Module: us10.9d4913a9trial.salesordermanagementmi01
+
+Name: META-INF/mtad.yaml
+Content-Type: text/plain
+
